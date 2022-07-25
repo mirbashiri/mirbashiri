@@ -15,10 +15,13 @@
 - **Microcontroller:** ESP8266, ESP32, AVR microcontrollers, and STM32.
 - **Professional Software:** AUTODESK Eagle, Altium Designer, Rhinoceros 3D, ST Microelectronic tools, Keil, MPLAB, Visual Studio Code, Xcode, Android Studio, Amazon Web Services, Google Cloud, LabVIEW, Postman, GitHub, Adobe illustrator, Meshmixer, Inkscape, GIMP, Cura, Mac, Windows, and Linux(ubuntu).
 
-### P202 (IoT pH meter)
+#### IoT pH meter(P202)
 **3D concept**
 ![This is an image](/assets/images/3D_IoT_pH_meter_1.png)
 ![This is an image](/assets/images/3D_IoT_pH_meter_2.png)
+
+#### IoT Supplement/Medicine Tracker (PALLY)
+**3D concept**
 ![This is an image](/assets/images/3D_Pally_1.png)
 ![This is an image](/assets/images/3D_Pally_2.png)
 
