@@ -9,7 +9,10 @@
 - Familiar with robotics and computer vision devices.
 - Curious, positive attitude, complex problem solver with a critical mindset.
 - Dedicated team player, organized and task-oriented.
+## Technical Skills
 
+- **Programming:** C/C++/C#, SWIFT, Flutter.
+- **Microcontroller:** ESP8266, ESP32, AVR microcontrollers, and STM32.
 
 ![This is an image](/assets/images/3D_IoT_pH_meter_1.png)
 ![This is an image](/assets/images/3D_IoT_pH_meter_2.png)
