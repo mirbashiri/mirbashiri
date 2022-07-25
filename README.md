@@ -1,6 +1,12 @@
 # Farzad Mirbashiri
 ## Product Design Engineer
 
+Some basic Git commands are:
+```
+-A highly motivated engineer with 5+ years of experience in designing and developing embedded systems and physical products.
+-Proficient in prototyping, testing, debugging, troubleshooting, and rapid electronic product manufacturing.
+-Experience in developing low-level communication drivers (SPI, UART, I2C, USB).
+```
 -A highly motivated engineer with 5+ years of experience in designing and developing embedded systems and physical products.
 -Proficient in prototyping, testing, debugging, troubleshooting, and rapid electronic product manufacturing.
 -Experience in developing low-level communication drivers (SPI, UART, I2C, USB).
