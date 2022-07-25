@@ -30,5 +30,6 @@ Custom size 13.56Mhz antenna, SPI 240x240, One special capacitive touch button a
 **3D concept**
 ![This is an image](/assets/images/3D_Pally_1.png)
 ![This is an image](/assets/images/3D_Pally_2.png)
+**First prototype**
 ![This is an image](/assets/images/3D_Pally_3.jpg)
 
