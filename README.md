@@ -15,7 +15,7 @@
 - **Microcontroller:** ESP8266, ESP32, AVR microcontrollers, and STM32.
 - **Professional Software:** AUTODESK Eagle, Altium Designer, Rhinoceros 3D, ST Microelectronic tools, Keil, MPLAB, Visual Studio Code, Xcode, Android Studio, Amazon Web Services, Google Cloud, LabVIEW, Postman, GitHub, Adobe illustrator, Meshmixer, Inkscape, GIMP, Cura, Mac, Windows, and Linux(ubuntu).
 
-### IoT pH meter(P202)
+### IoT pH meter(P202)<sub>2022</sub>
 - Cloud-Based digital pH meter, two calibration points, and 12-bit ADC ±(0.1~0.01%).
 Isolated power supply, IPS SPI 240x240 display, Three captivate touch buttons, 2xLayer PCB(40x70 mm).
 *ESP32, C/C++, RESTful APIs, AWS, OTA, Flutter*
