@@ -18,7 +18,8 @@
 ### IoT pH meter(P202)
 - Cloud-Based digital pH meter, two calibration points, and 12-bit ADC ±(0.1~0.01%).
 Isolated power supply, IPS SPI 240x240 display, Three captivate touch buttons, 2xLayer PCB(40x70 mm).
-* ESP32, C/C++, RESTful APIs, AWS, OTA, Flutter *
+*ESP32, C/C++, RESTful APIs, AWS, OTA, Flutter*
+
 **3D concept**
 ![This is an image](/assets/images/3D_IoT_pH_meter_1.png)
 ![This is an image](/assets/images/3D_IoT_pH_meter_2.png)
