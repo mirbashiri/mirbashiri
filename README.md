@@ -16,8 +16,7 @@
 - **Professional Software:** AUTODESK Eagle, Altium Designer, Rhinoceros 3D, ST Microelectronic tools, Keil, MPLAB, Visual Studio Code, Xcode, Android Studio, Amazon Web Services, Google Cloud, LabVIEW, Postman, GitHub, Adobe illustrator, Meshmixer, Inkscape, GIMP, Cura, Mac, Windows, and Linux(ubuntu).
 
 ### IoT pH meter(P202) <sup>2022</sup>
-- Cloud-Based digital pH meter, two calibration points, and 12-bit ADC ±(0.1~0.01%).
-Isolated power supply, IPS SPI 240x240 display, Three captivate touch buttons, 2xLayer PCB(40x70 mm).
+- Cloud-Based digital pH meter, two calibration points, 12-bit ADC ±(0.1~0.01%), Isolated power supply, IPS SPI 240x240 display and three captivate touch buttons. 2xLayer PCB(40x70 mm).
 *ESP32, C/C++, RESTful APIs, AWS, OTA, Flutter*
 
 **3D concept**
@@ -26,7 +25,7 @@ Isolated power supply, IPS SPI 240x240 display, Three captivate touch buttons, 2
 
 ### IoT Supplement/Medicine Tracker (PALLY) <sup>2022</sup>
 - Smart medicine tracker using NFC technology with reminder and monitoring system.
-Custom size 13.56Mhz antenna, SPI 240x240, One special capacitive touch button and connector, 2xLayer PCB(D75 mm), *ESP32, C/C++, RESTful APIs, AWS, OTA, Flutter*
+Custom size 13.56Mhz antenna, SPI 240x240, One special capacitive touch button and connector. 2xLayer PCB(D75 mm).*ESP32, C/C++, RESTful APIs, AWS, OTA, Flutter*
 
 **3D concept**
 ![This is an image](/assets/images/3D_Pally_1.png)
