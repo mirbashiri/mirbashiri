@@ -1,4 +1,4 @@
-# Farzad (zad) Mirbashiri
+# Farzad Mirbashiri
 ## Product Design Engineer
 
 - A highly motivated engineer with 5+ years of experience in designing and developing embedded systems and physical products.
