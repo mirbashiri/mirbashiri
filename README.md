@@ -1,5 +1,5 @@
 # Farzad Mirbashiri
-## Product Design Engineer/ IoT
+## Full Stack Engineer/ IoT
 
 - A highly motivated engineer with 5+ years of experience in designing and developing embedded systems and physical products.
 - Proficient in prototyping, testing, debugging, troubleshooting, and rapid electronic product manufacturing.
