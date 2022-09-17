@@ -20,16 +20,14 @@
 *ESP32, C/C++, RESTful APIs, AWS, OTA, Flutter*
 
 **3D concept**
-![This is an image](/assets/images/3D_IoT_pH_meter_1.png)
-![This is an image](/assets/images/3D_IoT_pH_meter_2.png)
+![This is an image](/assets/images/P202.png)
 
 ### IoT Supplement/Medicine Tracker (PALLY) <sup>2022</sup>
 - Smart medicine tracker using NFC technology with reminder and monitoring system.
 Custom size 13.56Mhz antenna, SPI 240x240, One special capacitive touch button and connector. 2xLayer PCB(D75 mm).*ESP32, C/C++, RESTful APIs, AWS, OTA, Flutter*
 
 **3D concept**
-![This is an image](/assets/images/3D_Pally_1.png)
-![This is an image](/assets/images/3D_Pally_2.png)
+![This is an image](/assets/images/Pally.png)
 
 
 
