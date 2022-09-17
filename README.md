@@ -15,6 +15,8 @@
 - **Microcontroller:** ESP8266, ESP32, AVR microcontrollers, and STM32.
 - **Professional Software:** AUTODESK Eagle, Altium Designer, Rhinoceros 3D, ST Microelectronic tools, Keil, MPLAB, Visual Studio Code, Xcode, Android Studio, Amazon Web Services, Google Cloud, LabVIEW, Postman, GitHub, Adobe illustrator, Meshmixer, Inkscape, GIMP, Cura, Mac, Windows, and Linux(ubuntu).
 
+<a href="https://www.linkedin.com/in/mirbashiri/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" style="max-width: 100%;"></a>
+
 <a href="https://www.instagram.com/_a_perfect_circle_/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" style="max-width: 100%;"></a>
 
 ### IoT pH meter(P202) <sup>2022</sup>
