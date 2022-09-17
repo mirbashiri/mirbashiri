@@ -27,7 +27,7 @@
 Custom size 13.56Mhz antenna, SPI 240x240, One special capacitive touch button and connector. 2xLayer PCB(D75 mm).*ESP32, C/C++, RESTful APIs, AWS, OTA, Flutter*
 
 **3D concept**
-![This is an image](/assets/images/Pally.png)
+![This is an image](/assets/images/PALLY.png)
 
 
 
