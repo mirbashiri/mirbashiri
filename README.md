@@ -32,3 +32,7 @@ Custom size 13.56Mhz antenna, SPI 240x240, One special capacitive touch button a
 ![This is an image](/assets/images/3D_Pally_2.png)
 
 
+
+**SOLO2**
+![This is an image](/assets/images/SOLO_DIM.png)
+
