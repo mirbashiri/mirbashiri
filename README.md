@@ -30,9 +30,7 @@ Custom size 13.56Mhz antenna, SPI 240x240, One special capacitive touch button a
 ![This is an image](/assets/images/PALLY.png)
 
 
-
-### SOLO2
-### Open-source AI-Powered Tracked Robot Platform<sup>2022</sup>
+### SOLO2, Open-source AI-Powered Tracked Robot Platform<sup>2022</sup>
 ![This is an image](/assets/images/SOLO2_DIM.png)
 [DOWNLOAD 3D FILES](../.../../SOLO2)
 
