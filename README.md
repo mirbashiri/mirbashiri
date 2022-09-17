@@ -15,6 +15,8 @@
 - **Microcontroller:** ESP8266, ESP32, AVR microcontrollers, and STM32.
 - **Professional Software:** AUTODESK Eagle, Altium Designer, Rhinoceros 3D, ST Microelectronic tools, Keil, MPLAB, Visual Studio Code, Xcode, Android Studio, Amazon Web Services, Google Cloud, LabVIEW, Postman, GitHub, Adobe illustrator, Meshmixer, Inkscape, GIMP, Cura, Mac, Windows, and Linux(ubuntu).
 
+<a href="https://www.instagram.com/_a_perfect_circle_/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" style="max-width: 100%;"></a>
+
 ### IoT pH meter(P202) <sup>2022</sup>
 - Cloud-Based digital pH meter, two calibration points, 12-bit ADC ±(0.1~0.01%), Isolated power supply, IPS SPI 240x240 display and three captivate touch buttons. 2xLayer PCB(40x70 mm).
 *ESP32, C/C++, RESTful APIs, AWS, OTA, Flutter*
@@ -34,4 +36,4 @@ Custom size 13.56Mhz antenna, SPI 240x240, One special capacitive touch button a
 [Click here for more details & downloads!](https://github.com/mirbashiri/SOLO2)
 ![This is an image](/assets/images/SOLO2_DIM.png)
 
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" style="max-width: 100%;">
+
