@@ -34,3 +34,4 @@ Custom size 13.56Mhz antenna, SPI 240x240, One special capacitive touch button a
 [Click here for more details & downloads!](https://github.com/mirbashiri/SOLO2)
 ![This is an image](/assets/images/SOLO2_DIM.png)
 
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" style="max-width: 100%;">
