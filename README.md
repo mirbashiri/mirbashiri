@@ -14,7 +14,7 @@
 - **Programming:** C/C++/C#, SWIFT, Flutter.
 - **Microcontroller:** ESP8266, ESP32, AVR microcontrollers, and STM32.
 - **Professional Software:** AUTODESK Eagle, Altium Designer, Rhinoceros 3D, ST Microelectronic tools, Keil, MPLAB, Visual Studio Code, Xcode, Android Studio, Amazon Web Services, Google Cloud, LabVIEW, Postman, GitHub, Adobe illustrator, Meshmixer, Inkscape, GIMP, Cura, Mac, Windows, and Linux(ubuntu).
-![Alt Text](/assets/images/linkedin-bounce.gif)
+![Alt Text](../assets/images/linkedin-bounce.gif)
 
 
 <div>
