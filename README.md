@@ -19,7 +19,7 @@
 <div>
 <p dir="auto"><g-emoji class="g-emoji" alias="link" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">🔗</g-emoji> &nbsp;<strong>Connect with me</strong></p>
 <a href="https://www.linkedin.com/in/mirbashiri/" rel="nofollow"><img align="center" src="/assets/images/linkedin-bounce.gif" alt="gautamkrishnar" height="40" width="40" style="max-width: 100%;"></a>
-<a href="https://www.instagram.com/_a_perfect_circle_/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://www.instagram.com/_a_perfect_circle_/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="40" width="50" style="max-width: 100%;"></a>
 </div>
 
 ### IoT pH meter(P202) <sup>2022</sup>
