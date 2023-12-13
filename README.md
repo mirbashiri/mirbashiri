@@ -11,10 +11,7 @@
 - Dedicated team player, organized and task-oriented.
 ## Technical Skills
 
-- **Programming:** C/C++/C#, SWIFT, Flutter.
-- **Microcontroller:** ESP8266, ESP32, AVR microcontrollers and STM32.
-- **Professional Software:** AUTODESK Eagle, Altium Designer, Rhinoceros 3D, ST Microelectronic tools, Keil, MPLAB, Visual Studio Code, Xcode, Android Studio, Amazon Web Services, Google Cloud, LabVIEW, Postman, GitHub, Adobe Illustrator, Meshmixer, Inkscape, GIMP, Cura, Mac, Windows, and Linux(ubuntu).
-
+**Technical Proficiencies: **C/ C++/ C#, Swift, Dart, Flutter, React.js, Node.js. Xcode, Android Studio, Visual Studio Code, Amazon Web Services(AWS), Google Cloud, Azure, Jira Software, Confluence, AUTODESK Eagle, Altium Designer, Rhinoceros 3D, STMicroelectronic tools, Keil, MPLAB, ESP-IDF, Eclipse, LabVIEW, Postman, GitHub. MCU: ESP8266, ESP32, AVR microcontrollers, and STM32.
 
 <div>
 <p dir="auto"><g-emoji class="g-emoji" alias="link" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">🔗</g-emoji> &nbsp;<strong>Connect with me</strong></p>
