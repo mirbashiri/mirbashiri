@@ -1,8 +1,5 @@
 # Farzad Mirbashiri
-## 🚀 Innovative Technical Team Leader 
-## 10+ Years Experience in Systems Architecture 
-## Software Product Development | Technical Product Ownership | Cross-Functional Communication
-# Robotics Enthusiast +Maker🤖
+## 🚀 Innovative Technical Team Leader | 10+ Years Experience in Complex Systems Architecture | Software Product Development | Technical Product Ownership | Cross-Functional Communication | Robotics Enthusiast +Maker🤖
 
 With over a decade of expertise in technology leadership across healthcare, consulting, and software development, I am a seasoned technical team leader committed to driving innovation and delivering exceptional results. As a dedicated AWS Solutions Architect and Certified ScrumMaster, I have successfully led end-to-end product management lifecycles, orchestrating collaborative efforts across diverse teams to streamline multifaceted projects.<h6>
 #### Technical Leadership Excellence
