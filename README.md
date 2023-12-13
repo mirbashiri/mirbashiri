@@ -10,7 +10,7 @@
 - Curious, positive attitude, complex problem solver with a critical mindset.
 - Dedicated team player, organized and task-oriented.
 
-##Technical Proficiencies:\C/ C++/ C#, Swift, Dart, Flutter, React.js, Node.js. Xcode, Android Studio, Visual Studio Code, Amazon Web Services(AWS), Google Cloud, Azure, Jira Software, Confluence, AUTODESK Eagle, Altium Designer, Rhinoceros 3D, STMicroelectronic tools, Keil, MPLAB, ESP-IDF, Eclipse, LabVIEW, Postman, GitHub. MCU: ESP8266, ESP32, AVR microcontrollers, and STM32.
+#Technical Proficiencies:\C/ C++/ C#, Swift, Dart, Flutter, React.js, Node.js. Xcode, Android Studio, Visual Studio Code, Amazon Web Services(AWS), Google Cloud, Azure, Jira Software, Confluence, AUTODESK Eagle, Altium Designer, Rhinoceros 3D, STMicroelectronic tools, Keil, MPLAB, ESP-IDF, Eclipse, LabVIEW, Postman, GitHub. MCU: ESP8266, ESP32, AVR microcontrollers, and STM32.
 
 <div>
 <p dir="auto"><g-emoji class="g-emoji" alias="link" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">🔗</g-emoji> &nbsp;<strong>Connect with me</strong></p>
