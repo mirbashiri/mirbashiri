@@ -1,8 +1,8 @@
 # Farzad Mirbashiri
 ## 🚀 Innovative Technical Team Leader | 10+ Years Experience in Systems Architecture | Software Product Development | Technical Product Ownership | Cross-Functional Communication | Robotics Enthusiast +Maker🤖
 
-With over a decade of expertise in technology leadership across healthcare, consulting, and software development, I am a seasoned technical team leader committed to driving innovation and delivering exceptional results. As a dedicated AWS Solutions Architect and Certified ScrumMaster, I have successfully led end-to-end product management lifecycles, orchestrating collaborative efforts across diverse teams to streamline multifaceted projects.- <h6>
-##### Technical Leadership Excellence
+With over a decade of expertise in technology leadership across healthcare, consulting, and software development, I am a seasoned technical team leader committed to driving innovation and delivering exceptional results. As a dedicated AWS Solutions Architect and Certified ScrumMaster, I have successfully led end-to-end product management lifecycles, orchestrating collaborative efforts across diverse teams to streamline multifaceted projects.<h6>
+#### Technical Leadership Excellence
 In my recent role as a Technical Lead/AWS Solutions Architect at Pally, a Toronto-based biomedical startup, I navigated the complexities of a compliance project by leading three Scrum teams through the entire product lifecycle. My AWS Solutions Architect proficiency was showcased as I designed and developed robust cloud infrastructure and mobile app architecture, integrating AWS services seamlessly.
 \**Cross-Functional Communication Mastery**
 As a proponent of collaborative leadership, I facilitated discussions and decision-making as a Subject Matter Expert, ensuring alignment across three cross-functional teams. My role extended beyond technical responsibilities to cross-functional communication, conflict resolution, and overall project success.
