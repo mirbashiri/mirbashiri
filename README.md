@@ -4,11 +4,11 @@
 With over a decade of expertise in technology leadership across healthcare, consulting, and software development, I am a seasoned technical team leader committed to driving innovation and delivering exceptional results. As a dedicated AWS Solutions Architect and Certified ScrumMaster, I have successfully led end-to-end product management lifecycles, orchestrating collaborative efforts across diverse teams to streamline multifaceted projects.
 \**Technical Leadership Excellence**\
 In my recent role as a Technical Lead/AWS Solutions Architect at Pally, a Toronto-based biomedical startup, I navigated the complexities of a compliance project by leading three Scrum teams through the entire product lifecycle. My AWS Solutions Architect proficiency was showcased as I designed and developed robust cloud infrastructure and mobile app architecture, integrating AWS services seamlessly.
-\**Cross-Functional Communication Mastery**\
+\\**Cross-Functional Communication Mastery**\
 As a proponent of collaborative leadership, I facilitated discussions and decision-making as a Subject Matter Expert, ensuring alignment across three cross-functional teams. My role extended beyond technical responsibilities to cross-functional communication, conflict resolution, and overall project success.
 \**Innovative Healthcare Solutions at Hygienic Echo Inc**\
 As a Hardware Engineer/Lead at Hygienic Echo Inc., I took charge of the Engineering team, validating product firmware functionality and ensuring successful product releases. Acting as a Certified Scrum Product Owner, I fostered collaboration between hardware, front-end, back-end, and cloud teams, translating business problem statements into actionable user stories.
-\**Technical System Analyst at KITE-UHN**\
+\\**Technical System Analyst at KITE-UHN**\
 At KITE-UHN, Canada's top medical research hospital, my role as a Technical System Analyst involved facilitating discussions across four cross-functional teams and senior management. As a Certified Scrum Product Owner, I contributed to constructing product roadmaps and supporting product owners in deadline setting and issue resolution.
 
 \**Project Tech Lead at zadsolutions**\
