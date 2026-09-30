@@ -9,7 +9,7 @@ For more than ten years I've worked across the whole stack: laying out PCBs and 
 - **Full-stack, literally** — from ESP32 firmware and custom antennas to AWS serverless backends and Flutter apps, with the same person owning the interfaces between them.
 - **AWS from zero** — I've designed and built complete IoT backends from an empty account: IoT Core, Lambda, API Gateway, Cognito, DynamoDB, S3, and Amplify, wired together as one product.
 - **Technical project management** — as a Certified ScrumMaster and Product Owner, I turn problem statements into roadmaps and backlogs, run multiple cross-functional teams, and make the trade-off calls that keep a release on schedule.
-- **Cost-aware architecture** — real-time device state without a fleet of servers: FreeRTOS on the device, MQTT and Device Shadows on AWS IoT Core, and a serverless data path that runs for under $30 a month.
+- **Cost-aware architecture** — real-time device state without a fleet of servers: FreeRTOS on the device, MQTT and Device Shadows on AWS IoT Core, and a serverless data path with near-zero idle cost.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/mirbashiri/) · [Instagram](https://www.instagram.com/_a_perfect_circle_/) · [mirbashiri@gmail.com](mailto:mirbashiri@gmail.com)
 
@@ -20,7 +20,7 @@ For more than ten years I've worked across the whole stack: laying out PCBs and 
 ### IoT Medicine Tracker — PALLY <sup>2022</sup>
 A smart supplement and medicine tracker built on NFC, with reminders and monitoring. I designed and built the entire system from scratch: the device, the AWS cloud, and the mobile app.
 - **Device:** ESP32 running FreeRTOS, custom 13.56 MHz NFC antenna, SPI 240x240 display, single capacitive touch button, 2-layer D75 mm PCB, OTA updates.
-- **Cloud:** AWS IoT Core with MQTT and Device Shadows for real-time state sync, Lambda + API Gateway for the API, Cognito for auth, DynamoDB and S3 for data, Amplify for the app backend — a fully serverless stack running for under $30 a month.
+- **Cloud:** AWS IoT Core with MQTT and Device Shadows for real-time state sync, Lambda + API Gateway for the API, Cognito for auth, DynamoDB and S3 for data, Amplify for the app backend — a fully serverless stack.
 - **App:** Flutter, on iOS and Android.
 
 ![PALLY 3D concept](/assets/images/PALLY.png)
