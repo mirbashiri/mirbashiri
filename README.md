@@ -1,12 +1,13 @@
 # Hi, I'm Farzad Mirbashiri 👋
-### Technical Team Leader · Systems Architect · Product Owner (CSM®, CSPO®) · Robotics Maker 🤖
+### Technical Team Leader · AWS Solutions Architect · Product Owner (CSM®, CSPO®) · Robotics Maker 🤖
 
-I build products where hardware, firmware, cloud, and mobile have to work as one system — and I lead the teams that ship them.
+I build connected products where hardware, firmware, AWS cloud, and mobile have to work as one system — and I lead the teams that ship them.
 
 For over ten years I've moved between the soldering iron and the roadmap: designing PCBs and firmware for medical IoT devices, architecting the AWS backends that connect them, and running the Scrum teams that turn a business problem into a released product. I've done this in healthcare startups, a top Canadian research hospital, and consulting — always at the seam between disciplines, where most projects break.
 
 **What I do best**
-- **Architect end-to-end systems** — from silicon and sensors to cloud infrastructure and the app in the user's hand.
+- **Architect on AWS** — design the cloud backbone for IoT products: device connectivity, APIs, data, OTA updates, and the mobile apps that sit on top. Most recently, the full cloud and app architecture for PALLY.
+- **Build end-to-end systems** — from silicon and sensors to cloud infrastructure and the app in the user's hand.
 - **Lead cross-functional teams** — mechanical, hardware, firmware, front-end, back-end, and mobile, aligned on one product.
 - **Own the product** — translate problem statements into roadmaps and user stories, and make the trade-off calls that keep a release on track.
 
@@ -23,7 +24,7 @@ A cloud-connected digital pH meter with two-point calibration, a 12-bit ADC at �
 ![P202 3D concept](/assets/images/P202.png)
 
 ### IoT Medicine Tracker — PALLY <sup>2022</sup>
-A smart supplement and medicine tracker built on NFC, with reminders and monitoring. Custom 13.56 MHz antenna, SPI 240x240 display, a single capacitive touch button, on a 2-layer D75 mm PCB.
+A smart supplement and medicine tracker built on NFC, with reminders and monitoring. I designed the AWS cloud architecture and the mobile app architecture behind it, alongside the hardware: custom 13.56 MHz antenna, SPI 240x240 display, a single capacitive touch button, on a 2-layer D75 mm PCB.
 *ESP32 · C/C++ · RESTful APIs · AWS · OTA · Flutter*
 
 ![PALLY 3D concept](/assets/images/PALLY.png)
@@ -37,7 +38,7 @@ An open-source tracked robot platform for AI experiments. [Details and downloads
 
 ## Where I've done it
 
-**Pally, Toronto** — Technical Lead & AWS Solutions Architect at a biomedical startup. Led three Scrum teams through a full compliance-driven product lifecycle, designed the cloud and mobile architecture, and served as Subject Matter Expert across teams.
+**Pally, Toronto** — Technical Lead & AWS Solutions Architect at a biomedical startup. Designed the AWS cloud infrastructure and mobile app architecture for the PALLY tracker, led three Scrum teams through a full compliance-driven product lifecycle, and served as Subject Matter Expert across teams.
 
 **Hygienic Echo Inc.** — Hardware Engineer & Engineering Lead. Owned firmware validation and release readiness; as Product Owner, connected hardware, front-end, back-end, and cloud teams around a single backlog.
 
