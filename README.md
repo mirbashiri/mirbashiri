@@ -72,6 +72,7 @@ Led end-to-end physical product development, coordinating mechanical, hardware, 
 | | |
 |---|---|
 | **AWS** | IoT Core (MQTT, Device Shadows), Lambda, API Gateway, Cognito, DynamoDB, S3, Amplify |
+| **Backend & data** | Python, asyncio, websockets, SQLite (WAL, multi-writer), MCP servers, REST APIs |
 | **Embedded** | ESP32, ESP8266, STM32, AVR · FreeRTOS, ESP-IDF, Keil, MPLAB, STM32 tools |
 | **Software** | C/C++, C#, Swift, Dart/Flutter, React.js, Node.js |
 | **Hardware & CAD** | Altium Designer, Autodesk Eagle, Rhinoceros 3D, LabVIEW |
