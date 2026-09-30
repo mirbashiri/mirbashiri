@@ -23,7 +23,7 @@ What the work actually looks like:
 - **Data engineering under load** — multiple writer processes on multi-gigabyte SQLite files, WAL tuning, per-table database splitting, and crash forensics from macOS diagnostic reports (SIGSEGV, SIGBUS) back to root causes.
 - **A shared rules engine** — every scoring, gating, and classification rule lives once, as JSON + a pure Python function + a JavaScript twin with parity tests, and every service calls it instead of reimplementing it.
 - **Service architecture** — asyncio, websockets, MCP servers for tool-driven access, Telegram and TradingView integrations, watchdogs that distinguish an upstream outage from an internal stall.
-- **AI-agent-driven development** — the codebase is built and maintained with Claude Code and agent sessions, with per-service `CLAUDE.md` conventions, changelogs, and hard rules that encode lessons the hard way.
+- **AI-agent-driven development** — **the codebase is built and maintained with Claude Code and AI agent sessions**, with per-service `CLAUDE.md` conventions, changelogs, and hard rules that encode lessons learned the hard way.
 
 ---
 
