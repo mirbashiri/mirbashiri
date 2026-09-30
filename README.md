@@ -1,10 +1,10 @@
 # Farzad Mirbashiri
-### Full-Stack IoT Engineer & Technical Project Manager
+### Full-Stack Engineer & Technical Project Manager — IoT and FinTech
 AWS Solutions Architect · Certified ScrumMaster · Certified Scrum Product Owner
 
-I take connected products from idea to shipped system — hardware, firmware, cloud, and mobile — and I run the teams that build them.
+I take products from idea to shipped system — hardware, firmware, cloud, mobile, and now real-time trading infrastructure — and I run the teams that build them.
 
-Over the past ten-plus years I've worked every layer of that stack: laying out PCBs and writing firmware, designing serverless backends on AWS, building the mobile apps on top, and managing the Scrum teams that carry all of it to release. I've done this in healthcare startups, at Canada's leading medical research hospital, and in consulting — usually at the seam between disciplines, which is where I'm most useful.
+Over the past ten-plus years I've worked every layer of that stack: laying out PCBs and writing firmware, designing serverless backends on AWS, building the mobile apps on top, and managing the Scrum teams that carry all of it to release. I've done this in healthcare startups, at Canada's leading medical research hospital, and in consulting; since 2022 I've been working in FinTech, building a quantitative trading platform for crypto markets. Usually at the seam between disciplines, which is where I'm most useful.
 
 **What I bring**
 - **One owner across the stack.** ESP32 firmware, custom antennas, AWS serverless backends, Flutter apps — and, more importantly, the interfaces between them.
@@ -15,9 +15,9 @@ Over the past ten-plus years I've worked every layer of that stack: laying out P
 
 ---
 
-## Currently building
+## Currently building — FinTech, 2022 – present
 
-**A personal quantitative trading platform for crypto perpetuals** — thirteen cooperating Python services that collect real-time market data (full-depth order books over websockets into tens of gigabytes of SQLite), analyze on-chain wallets and score their signals, run paper and live execution against exchange APIs, and monitor the whole thing.
+**A quantitative trading platform for crypto perpetuals** — thirteen cooperating Python services that collect real-time market data (full-depth order books over websockets into tens of gigabytes of SQLite), analyze on-chain wallets and score their signals, run paper and live execution against exchange APIs, and monitor the whole thing.
 
 What the work actually looks like:
 - **Data engineering under load** — multiple writer processes on multi-gigabyte SQLite files, WAL tuning, per-table database splitting, and crash forensics from macOS diagnostic reports (SIGSEGV, SIGBUS) back to root causes.
@@ -51,6 +51,9 @@ An open-source tracked robot platform for AI experiments. [Details and downloads
 ---
 
 ## Experience
+
+**Independent — FinTech / Quantitative Trading Platform** <sup>2022 – present</sup>
+Designed and built a multi-service trading platform for crypto perpetuals end to end: real-time market data collection, wallet analytics and signal scoring, paper and live execution, and monitoring. Details under *Currently building* above.
 
 **Pally, Toronto — Technical Lead & AWS Solutions Architect**
 Biomedical startup. Architected and built the AWS backend and mobile app for the PALLY tracker from the ground up, led three Scrum teams through a full compliance-driven product lifecycle, and acted as the technical Subject Matter Expert across teams.
