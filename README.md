@@ -15,6 +15,18 @@ Over the past ten-plus years I've worked every layer of that stack: laying out P
 
 ---
 
+## Currently building
+
+**A personal quantitative trading platform for crypto perpetuals** — thirteen cooperating Python services that collect real-time market data (full-depth order books over websockets into tens of gigabytes of SQLite), analyze on-chain wallets and score their signals, run paper and live execution against exchange APIs, and monitor the whole thing.
+
+What the work actually looks like:
+- **Data engineering under load** — multiple writer processes on multi-gigabyte SQLite files, WAL tuning, per-table database splitting, and crash forensics from macOS diagnostic reports (SIGSEGV, SIGBUS) back to root causes.
+- **A shared rules engine** — every scoring, gating, and classification rule lives once, as JSON + a pure Python function + a JavaScript twin with parity tests, and every service calls it instead of reimplementing it.
+- **Service architecture** — asyncio, websockets, MCP servers for tool-driven access, Telegram and TradingView integrations, watchdogs that distinguish an upstream outage from an internal stall.
+- **AI-agent-driven development** — the codebase is built and maintained with Claude Code and agent sessions, with per-service `CLAUDE.md` conventions, changelogs, and hard rules that encode lessons the hard way.
+
+---
+
 ## Selected work
 
 ### PALLY — IoT medicine tracker <sup>2022</sup>
